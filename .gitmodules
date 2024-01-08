@@ -1,3 +1,6 @@
 [submodule "emulators/dosbox-staging"]
 	path = emulators/dosbox-staging
 	url = https://github.com/thaewrapt/macports-emulators-dosbox-staging
+[submodule "audio/lltag"]
+	path = audio/lltag
+	url = https://github.com/thaewrapt/macports-audio-lltag
