@@ -1,0 +1,3 @@
+[submodule "emulators/dosbox-staging"]
+	path = emulators/dosbox-staging
+	url = https://github.com/thaewrapt/macports-emulators-dosbox-staging
